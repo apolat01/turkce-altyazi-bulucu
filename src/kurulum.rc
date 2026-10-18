@@ -1,0 +1,5 @@
+1 ICON "simge.ico"
+1 24 "uygulama.manifest"
+101 RCDATA "../yapi/TurkceAltyaziBulucu.exe"
+102 RCDATA "../ucuncu/mpc-hc.zip"
+103 RCDATA "../yapi/LISANSLAR.txt"

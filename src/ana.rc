@@ -1,0 +1,24 @@
+#include <winver.h>
+1 ICON "simge.ico"
+1 24 "uygulama.manifest"
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "041F04B0"
+    BEGIN
+      VALUE "CompanyName", "Ali Polat"
+      VALUE "FileDescription", "Türkçe Altyazı Bulucu"
+      VALUE "FileVersion", "1.0.0"
+      VALUE "ProductName", "Türkçe Altyazı Bulucu"
+      VALUE "ProductVersion", "1.0.0"
+      VALUE "LegalCopyright", "© 2026 Ali Polat"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x041F, 1200
+  END
+END

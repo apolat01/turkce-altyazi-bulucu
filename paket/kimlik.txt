@@ -1,0 +1,4 @@
+AD=AliPolat.TurkceAltyaziBulucu
+YAYINCI=CN=Ali Polat Test
+YAYINCI_AD=Ali Polat
+SURUM=1.0.0.0
