@@ -25,7 +25,7 @@ Kurulum Windows yönetici izni istemez; program kullanıcı klasörüne kurulur.
 
 ![Dene](paket/magaza/ekran-goruntuleri/2-dene.png)
 
-Kaynaklar: BSPlayer (varsayılan), isteğe bağlı OpenSubtitles.com ve Subdl (kendi hesabınız/anahtarınızla, Ayarlar'dan).
+Birden fazla altyazı kaynağında aynı anda arar. Bazı kaynaklar için kendi hesabınızı ya da anahtarınızı Ayarlar'dan ekleyebilirsiniz.
 
 ## Derleme (Linux'tan çapraz derleme)
 
